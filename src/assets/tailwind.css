@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.radial-blu {
+  background: radial-gradient(rgb(208, 208, 208), rgb(75, 228, 255));
+}
